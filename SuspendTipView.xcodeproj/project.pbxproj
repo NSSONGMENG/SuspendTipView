@@ -20,6 +20,7 @@
 		5FB26D261F6834700019DD4B /* pdm_arrow_left@3x的.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB26D241F6834700019DD4B /* pdm_arrow_left@3x的.png */; };
 		5FB26D291F68347D0019DD4B /* pdm_arrow_right@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB26D271F68347D0019DD4B /* pdm_arrow_right@2x.png */; };
 		5FB26D2A1F68347D0019DD4B /* pdm_arrow_right@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FB26D281F68347D0019DD4B /* pdm_arrow_right@3x.png */; };
+		5FB26D2C1F683CD80019DD4B /* 2017-09-13 00_01_43.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5FB26D2B1F683CD80019DD4B /* 2017-09-13 00_01_43.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		5FB26D241F6834700019DD4B /* pdm_arrow_left@3x的.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pdm_arrow_left@3x的.png"; sourceTree = "<group>"; };
 		5FB26D271F68347D0019DD4B /* pdm_arrow_right@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pdm_arrow_right@2x.png"; sourceTree = "<group>"; };
 		5FB26D281F68347D0019DD4B /* pdm_arrow_right@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pdm_arrow_right@3x.png"; sourceTree = "<group>"; };
+		5FB26D2B1F683CD80019DD4B /* 2017-09-13 00_01_43.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2017-09-13 00_01_43.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5FB26D241F6834700019DD4B /* pdm_arrow_left@3x的.png */,
 				5FB26D271F68347D0019DD4B /* pdm_arrow_right@2x.png */,
 				5FB26D281F68347D0019DD4B /* pdm_arrow_right@3x.png */,
+				5FB26D2B1F683CD80019DD4B /* 2017-09-13 00_01_43.gif */,
 			);
 			path = SuspendTipV;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				5FB26D0F1F682AD70019DD4B /* Main.storyboard in Resources */,
 				5FB26D261F6834700019DD4B /* pdm_arrow_left@3x的.png in Resources */,
 				5FB26D211F68345A0019DD4B /* time_down@2x.png in Resources */,
+				5FB26D2C1F683CD80019DD4B /* 2017-09-13 00_01_43.gif in Resources */,
 				5FB26D251F6834700019DD4B /* pdm_arrow_left@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,6 +349,7 @@
 				5FB26D1A1F682AD70019DD4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
